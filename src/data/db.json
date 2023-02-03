@@ -1,0 +1,48 @@
+{
+    "usuarios" :[
+        {
+            "id":1,
+            "nombre":"Luis",
+            "celular":"3146352021",
+            "contraseña": "Luis0000",
+            "imagen": "./images/hombre.png",
+            "online": true,
+            "frase": "Dime con quién andas y te diré quien eres",
+            "fecha": "2022-12-01"
+        },
+        {
+            "id": 2,
+            "nombre":"Gredy",
+            "celular":"3115625130",
+            "contraseña": "Gredy88",
+            "imagen": "./images/hombre2.png",
+            "online": false,
+            "frase": "Hoy no fío mañana si",
+            "fecha": "2022-11-01"
+        }
+    ],
+
+    "mensajes": [
+        {
+            "idUser1": 1,
+            "idUser2": 2,
+            "mensajes": [
+                {
+                    "sendBy": 1,
+                    "date": "25-01",
+                    "hour": "10:00",
+                    "message": "Hola como estás?",
+                    "visto": false
+                },
+                {
+                    "sendBy": 2,
+                    "date": "25-01",
+                    "hour": "10:05",
+                    "message": "Como va todo?",
+                    "visto": true
+                }
+            ]
+        }
+
+    ]
+}
