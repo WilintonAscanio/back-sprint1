@@ -24,6 +24,7 @@
 
     "mensajes": [
         {
+            "id" :1
             "idUser1": 1,
             "idUser2": 2,
             "mensajes": [
