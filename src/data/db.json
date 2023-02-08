@@ -25,18 +25,25 @@
     "mensajes": [
         {
             "id": 1,
-            "idUser1": 1,
-            "idUser2": 2,
+            "idUser1": 3146352021,
+            "idUser2": 3115625130,
             "mensajes": [
                 {
-                    "sendBy": 1,
+                    "sendBy": 3146352021,
                     "date": "25-01",
                     "hour": "10:00",
                     "message": "Hola como estás?",
                     "visto": false
                 },
                 {
-                    "sendBy": 2,
+                    "sendBy": 3115625130,
+                    "date": "25-01",
+                    "hour": "10:05",
+                    "message": "Como va todo?",
+                    "visto": true
+                },
+                {
+                    "sendBy": 3146352021,
                     "date": "25-01",
                     "hour": "10:05",
                     "message": "Como va todo?",
