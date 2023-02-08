@@ -22,9 +22,9 @@
         }
     ],
 
-    "mensajes": [
+     "mensajes": [
         {
-            "id": 1,
+            "id" : 1,
             "idUser1": 3146352021,
             "idUser2": 3115625130,
             "mensajes": [
@@ -42,9 +42,8 @@
                     "message": "Como va todo?",
                     "visto": true
                 }
-                ]
+            ]
         }
-                
 
     ]
         
