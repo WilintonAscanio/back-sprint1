@@ -41,15 +41,8 @@
                     "hour": "10:05",
                     "message": "Como va todo?",
                     "visto": true
-                },
-                {
-                    "sendBy": 3146352021,
-                    "date": "25-01",
-                    "hour": "10:05",
-                    "message": "Como va todo?",
-                    "visto": true
                 }
-            ]
+               
         }
 
     ]
